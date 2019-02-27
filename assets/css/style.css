@@ -314,7 +314,7 @@ margin-left: 20px;
 
     position: absolute;
     top: 30px;
-    right: 40%;
+    right: 45%;
    
 }
 
@@ -326,7 +326,7 @@ margin-left: 20px;
     margin-bottom: 25px;
     padding-top: 0;
     border: none;
-    height: 875px;
+    
     position: relative;
 }
 
@@ -371,9 +371,9 @@ margin-left: 20px;
     text-align: center;
     height: 50px;
     position: absolute;
-    
+    z-index: 2;
     left: 20px;
-    top: 230px;
+    top: 130px;
     background: #4aaaa5;
     color: white;
 }
@@ -384,8 +384,8 @@ margin-left: 20px;
     text-align: center;
     height: 50px;
     position: absolute;
-    left: 355px;
-    top: 230px;
+    left: 290px;
+    top: 130px;
     background: #4aaaa5;
     color: white;
 
@@ -398,8 +398,8 @@ margin-left: 20px;
     text-align: center;
     height: 50px;
     position: absolute;
-    left: 270px;
-    top: 570px;
+    left: 810px;
+    top: 330px;
     background: #4aaaa5;
     color: white;
 
@@ -411,8 +411,8 @@ margin-left: 20px;
     text-align: center;
     height: 50px;
     position: absolute;
-    left: 605px;
-    top: 570px;
+    left: 270px;
+    top: 330px;
     background: #4aaaa5;
     color: white;
 
@@ -425,8 +425,8 @@ margin-left: 20px;
     text-align: center;
     height: 50px;
     position: absolute;
-    bottom: 140px;
-    left: 270px;
+    top: 315px;
+    left: 540px;
     background: #4aaaa5;
     color: white;
 
@@ -451,7 +451,7 @@ margin-left: 20px;
     float: left;
     width: 250px;
     height: 200px;
-    margin-left: 65px;
+    margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
     padding: 0;
@@ -464,14 +464,14 @@ margin-left: 20px;
 
     
     margin-top: 0;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-bottom: 0;
     padding: 0;
     width: 250px;
     height: 200px;
+    float: left;
     position: absolute;
-    right: 920px;
-    top: 440px;
+    top: 200px;
 }
 
 #img4 {
@@ -480,9 +480,10 @@ margin-left: 20px;
     margin-left: 10px;
     width: 250px;
     height: 200px;
+    
     position: absolute;
-    right: 585px;
-    top: 440px;
+    left: 260px;
+    top: 200px;
     padding: 0;
 }
 
@@ -494,10 +495,10 @@ margin-left: 20px;
     width: 250px;
     height: 200px;
     position: absolute;
-    right: 920px;
-    bottom: 120px;
+    left: 540px;
+    top: 184px;
     padding: 0;
-    float: left;
+    
 
 
 }
